@@ -6,8 +6,9 @@ body{font-family: 'Poppins', sans-serif;
 color: rgb(235, 19, 66);}
 .half-width{width:40% ;
 float: left;
-margin-left: 5%;
-padding-left: 2%;}
+margin-left: 7%;
+padding-left: 1%;
+padding-top: 50px;}
 .half-width img{width: 100%;}
 
 .link-button{text-decoration: none;
@@ -22,5 +23,8 @@ section{height: 600px;
     background-image:url("images/header-bg.png");
     background-repeat: no-repeat;
     background-position: right;
-    
+    background-size: cover;  
 }
+
+.dream-area{background-image: url("images/biography-bg.png");
+background-repeat: no-repeat;}
