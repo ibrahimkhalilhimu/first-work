@@ -4,10 +4,10 @@ body{font-family: 'Poppins', sans-serif;
 .name{font-weight:bold;
     font-size: 30px;
 color: rgb(235, 19, 66);}
-.half-width{width:40% ;
+.half-width{width:30% ;
 float: left;
-margin-left: 7%;
-padding-left: 1%;
+margin-left: 6%;
+padding-left: 5%;
 padding-top: 50px;}
 .half-width img{width: 100%;}
 
@@ -27,4 +27,37 @@ section{height: 600px;
 }
 
 .dream-area{background-image: url("images/biography-bg.png");
-background-repeat: no-repeat;}
+background-repeat: no-repeat;
+background-size: cover;}
+
+.text{padding-top: 100px;}
+
+.last{
+text-align: center;
+padding-top: 30px;
+padding-bottom:30px ;}
+
+
+.work{width:25% ;
+float: left;
+padding-left:5% ;
+margin-left:2%;
+
+}
+.work img{width:100%;}
+
+.latest-work{background-image: url("images/header-bg.png");
+background-repeat:no-repeat;
+background-size: cover;
+background-position:right bottom;}
+
+.client{text-align: center;
+font-size: 20px;}
+.founder{text-align: center;
+padding-top: 20px;}
+.write{text-align: center;
+font-weight: 700;}
+.design{padding-top:20px;
+    text-align: center;
+    
+   }
