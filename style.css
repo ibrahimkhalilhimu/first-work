@@ -1,0 +1,26 @@
+body{font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.name{font-weight:bold;
+    font-size: 30px;
+color: rgb(235, 19, 66);}
+.half-width{width:40% ;
+float: left;
+margin-left: 5%;
+padding-left: 2%;}
+.half-width img{width: 100%;}
+
+.link-button{text-decoration: none;
+    background-color:rgb(235, 19, 66);
+    padding: 5px 20px;
+color: white;
+border-radius: 10px;
+}
+section{height: 600px;
+ }
+.top{ 
+    background-image:url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
